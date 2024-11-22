@@ -1,0 +1,5 @@
+install node js
+download from noadjs.iorg
+
+
+npx create-next-app globomantic
